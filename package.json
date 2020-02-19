@@ -1,0 +1,13 @@
+{
+  "name": "Immutable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vagner B.C",
+  "license": "MIT",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
